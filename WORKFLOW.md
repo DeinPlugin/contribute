@@ -4,7 +4,7 @@
 
 Zur Übersicht über den Werdegang eines Projekts bis hin zur Publizierung auf [DeinPlugin.NET](https://deinplugin.net) und/oder der Veröffentlichung unter dieser Organisation soll das folgende Diagramm dienen. Alle Detailaspekte sind im Folgenden gesondert erläutert.
 
-![Workflow Diagramm](./IMG/workflow-png)
+![Workflow Diagramm](./IMG/workflow.png)
 
 ## Beschreibung des Verfahrens
 
