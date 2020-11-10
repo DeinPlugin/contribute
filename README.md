@@ -14,7 +14,7 @@ Obwohl viele große und bekannte Spigot-Plugins bereits im Open-Source Bereich z
 
 2. Entwickler haben Angst, dass ihre Plugins gestohlen, modifiziert oder unter anderem Namen veröffentlicht werden - eine Angst, die in den meisten Fällen völlig unbegründet ist.
 
-Gleichzeitig finden wir, dass viele *kostenpflichtige* Plugins eine vergleichsweise miserable Qualität zu einem hohen Preis aufweisen. Das heißt in keiner Weise, dass *alle* gekauften Plugins "schlecht" sind oder wir dieses Modell der Monetarisierung im Allgemeinen verachten - wir glauben, dass viele Plugins *kostenfrei* sein sollten und mit der Unerstützung der Open-Source Community *verbessert* werden könnten.
+Gleichzeitig finden wir, dass viele *kostenpflichtige* Plugins eine vergleichsweise miserable Qualität zu einem hohen Preis aufweisen. Das heißt in keiner Weise, dass *alle* gekauften Plugins "schlecht" sind oder wir dieses Modell der Monetarisierung im Allgemeinen verachten - wir glauben, dass viele Plugins *kostenfrei* sein sollten und mit der Unterstützung der Open-Source Community *verbessert* werden könnten.
 
 *DeinPlugin.NET* lehnt sich stark an die Idee der Entwicklergemeinschaft [WeLoveOpenSourcePlugins](https://github.com/WeLoveOpenSourcePlugins) an und wurde gegründet, um den Open-Source Bereich einer breiteren Masse geläufig zu machen. Unsere Hauptziele sind:
 
