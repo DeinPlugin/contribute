@@ -37,7 +37,7 @@ Diese Verhaltensregeln gelten für alle Projekte, die im öffentlichen Rahmen au
 
 Regelverstöße sollen, wie bereits betont, neben einer im Sinne der Community durchzuführenden Maßnahme **umgehend** dem Team gemeldet werden. Gängige Wege dafür sind:
 - das Nutzen des [Discord-Servers](https://discord.gg/azG4wxrQWy)
-- Das Schreiben einer Email an [info@deinplugin.net]
+- Das Schreiben einer Email an info@deinplugin.net
 
 Das Projektteam wird allen Beschwerden nachgehen und dem Anfragesteller schnellstmöglich mit einer zum Sachverhalt passenden Nachricht antworten. Dabei legen wir einen hohen Stellenwert auf tiefe Vertraulichkeit in Verantwortung gegenüber des Anfragestellers.
 Weitere Details zu speziellen Strafen können in der Zukunft hier folgen.
