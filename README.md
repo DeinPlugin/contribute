@@ -36,7 +36,7 @@ Stattdessen gibt es einige Richtlinien, denen **unbedingt** zugestimmt werden mu
 
 - Das gesamte Projekt muss quelloffen sein, nicht nur bestimmte Teile (wie etwa eine API).
 
-- Für das Projekt musst Du den [Verhaltensregeln](./) zustimmen.
+- Für das Projekt musst Du den [Verhaltensregeln](./CODE-OF-CONDUCT.md) zustimmen.
 
 - Das Projekt muss (nach den Richtlinien des Teams) mindestens
 
@@ -73,7 +73,7 @@ Der Organisation darf jeder beitreten, sobald mindestens ein Plugin zur Veröffe
 
 ### Projekt-Template
 
-*Ein Beispiel-template folgt hier.*
+*Ein Beispiel-Template folgt hier.*
 
 ### Lernen
 
