@@ -2,7 +2,7 @@
 
 ## Unser Versprechen
 
-In der tiefen Intention eine warme und offene Umgebung für jeden Contributor zu schaffen, ist es unser Versprechen das Beitragen zu DeinPlugin, der Organisation und allen zugehörigen Projekten unserer Community frei von jeglicher Form von Hass zu halten. Dieser oberste Grundsatz heißt JEDEN bei uns willkommen - unabhängig von Alter, körperlichen Merkmalen und dem Geschlecht, anderen äußerlichen Ausdrucksweisen sowie Erfahrungslevel, sozialem Umfeld, sozio-ökonomischem Status, Nationalität, Ethnie, Bildung, Nationalität, Religion oder sexueller Identität und Orientierung.
+In der tiefen Intention eine warme und offene Umgebung für jeden Contributor zu schaffen, ist es unser Versprechen das Beitragen zu DeinPlugin, der Organisation und allen zugehörigen Projekten unserer Community frei von jeglicher Form von Hass zu halten. Dieser oberste Grundsatz heißt JEDEN bei uns willkommen - unabhängig von Alter, körperlichen Merkmalen und dem Geschlecht, anderen äußerlichen Ausdrucksweisen sowie Erfahrungslevel, sozialem Umfeld, sozio-ökonomischem Status, Nationalität, Ethnie, Bildung, Religion oder sexueller Identität und Orientierung.
 Bei Verstößen gegen diesen Standard sind wir gewillt, mit aller Härte gegen Nutzer vorzugehen.
 
 ## Unsere Standards
