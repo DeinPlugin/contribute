@@ -2,7 +2,7 @@
 
 **Dieses Dokument ist in ständiger Überarbeitung und deshalb an manchen Stellen unvolllständig.**
 
-*DeinPlugin.NET* ist eine Plattform, die es sich als Ziel gesetzt hat freie, quelloffene [Minecraft](https://minecraft.net)-Plugins für eine breite Masse zugänglich zu machen. Dabei wird mit der Server-Software [Spigot](https://www.spigotmc.org/) und all seiner Forks wie [Paper](https://papermc.io) oder [Taco](https://tacospigot.github.io/) gearbeitet.
+_DeinPlugin.NET_ ist eine Plattform, die es sich als Ziel gesetzt hat freie, quelloffene [Minecraft](https://minecraft.net)-Plugins für eine breite Masse zugänglich zu machen. Dabei wird mit der Server-Software [Spigot](https://www.spigotmc.org/) und all seiner Forks wie [Paper](https://papermc.io) oder [Taco](https://tacospigot.github.io/) gearbeitet.
 
 ## Hintergrund
 
@@ -14,17 +14,17 @@ Obwohl viele große und bekannte Spigot-Plugins bereits im Open-Source Bereich z
 
 2. Entwickler haben Angst, dass ihre Plugins gestohlen, modifiziert oder unter anderem Namen veröffentlicht werden - eine Angst, die in den meisten Fällen völlig unbegründet ist.
 
-Gleichzeitig finden wir, dass viele *kostenpflichtige* Plugins eine vergleichsweise miserable Qualität zu einem hohen Preis aufweisen. Das heißt in keiner Weise, dass *alle* gekauften Plugins "schlecht" sind oder wir dieses Modell der Monetarisierung im Allgemeinen verachten - wir glauben, dass viele Plugins *kostenfrei* sein sollten und mit der Unterstützung der Open-Source Community *verbessert* werden könnten.
+Gleichzeitig finden wir, dass viele _kostenpflichtige_ Plugins eine vergleichsweise miserable Qualität zu einem hohen Preis aufweisen. Das heißt in keiner Weise, dass _alle_ gekauften Plugins "schlecht" sind oder wir dieses Modell der Monetarisierung im Allgemeinen verachten - wir glauben, dass viele Plugins _kostenfrei_ sein sollten und mit der Unterstützung der Open-Source Community _verbessert_ werden könnten.
 
-*DeinPlugin.NET* lehnt sich stark an die Idee der Entwicklergemeinschaft [WeLoveOpenSourcePlugins](https://github.com/WeLoveOpenSourcePlugins) an und wurde gegründet, um den Open-Source Bereich einer breiteren Masse geläufig zu machen. Unsere Hauptziele sind:
+_DeinPlugin.NET_ lehnt sich stark an die Idee der Entwicklergemeinschaft [WeLoveOpenSourcePlugins](https://github.com/WeLoveOpenSourcePlugins) an und wurde gegründet, um den Open-Source Bereich einer breiteren Masse geläufig zu machen. Unsere Hauptziele sind:
 
-- Plugins auf der [DeinPlugin.NET](https://deinplugin.net/)-Plattform kostenlos bereitzustellen.
+-   Plugins auf der [DeinPlugin.NET](https://deinplugin.net/)-Plattform kostenlos bereitzustellen.
 
-- mehr Entwickler für den Open-Source Bereich zu begeistern.
+-   mehr Entwickler für den Open-Source Bereich zu begeistern.
 
-- Entwickler zum gemeinsamen Arbeiten und Kooperieren zu motivieren.
+-   Entwickler zum gemeinsamen Arbeiten und Kooperieren zu motivieren.
 
-Entwickler *aller* Erfahrungsstufen sind in unserer Gemeinschaft Willkommen - gemeinsam lernen und verbessern wir uns.
+Entwickler _aller_ Erfahrungsstufen sind in unserer Gemeinschaft Willkommen - gemeinsam lernen und verbessern wir uns.
 
 ## Voraussetzungen und Richtlinien
 
@@ -32,28 +32,29 @@ Im Allgemeinen steht die Struktur des Projekts dem Entwickler offen. Auch wenn e
 
 Stattdessen gibt es einige Richtlinien, denen **unbedingt** zugestimmt werden muss:
 
-- Das Projekt muss unter einer Open-Source Lizenz lizensiert sein.
+-   Das Projekt muss unter einer Open-Source Lizenz lizensiert sein.
 
-- Das gesamte Projekt muss quelloffen sein, nicht nur bestimmte Teile (wie etwa eine API).
+-   Das gesamte Projekt muss quelloffen sein, nicht nur bestimmte Teile (wie etwa eine API).
 
-- Für das Projekt musst Du den [Verhaltensregeln](./CODE-OF-CONDUCT.md) zustimmen.
+-   Für das Projekt musst Du den [Verhaltensregeln](./CODE-OF-CONDUCT.md) zustimmen.
 
-- Das Projekt muss (nach den Richtlinien des Teams) mindestens
+-   Das Projekt muss (nach den Richtlinien des Teams) mindestens
 
-  - unter aktiver Entwicklung sein.
+    -   unter aktiver Entwicklung sein.
 
-  - sich in einem abgeschlossenen/nutzbaren Stand befinden.
+    -   sich in einem abgeschlossenen/nutzbaren Stand befinden.
 
-- Nach der Veröffentlichung sollte das Projekt über eine *gewisse* Dokumentation verfügen.
+-   Nach der Veröffentlichung sollte das Projekt über eine _gewisse_ Dokumentation verfügen.
 
 Außerdem sind Projekte, die unter die folgenden Kategorien fallen, streng verboten:
 
-- Schadsoftware einschließlich von Plugins, die
-  - unaufgefordert Dateien eines Servers verändern/beschädigen/löschen.
+-   Schadsoftware einschließlich von Plugins, die
 
-  - (absichtlich) Clients oder Server, die nicht zugestimmt haben, belasten oder crashen.
+    -   unaufgefordert Dateien eines Servers verändern/beschädigen/löschen.
 
-  - Clients oder Server in irgendeiner anderen Weise beschädigen oder solche Features vom Nutzer verstecken.
+    -   (absichtlich) Clients oder Server, die nicht zugestimmt haben, belasten oder crashen.
+
+    -   Clients oder Server in irgendeiner anderen Weise beschädigen oder solche Features vom Nutzer verstecken.
 
 Entwickler, deren Projekte gegen diese Richtlinien verstoßen, werden Umgehend benachrichtig (in der Regel durch ein GitHub Issue). Wird der Verstoß nicht behoben, wird das entsprechende Repository (wenn dort hinterlegt) von der Organisation sowie der DeinPlugin.NET-Plattform entfernt. Projekte können auch für hier (noch) nicht aufgeführte Gründe entfernt werden. Auch solche Fälle werden aktiv an den/die Entwickler kommuniziert.
 
@@ -61,9 +62,9 @@ Entwickler, deren Projekte gegen diese Richtlinien verstoßen, werden Umgehend b
 
 Damit das Projekt unter unserer Plattform sowie dem Namen der Organisation veröffentlicht werden darf, müssen spezielle Bedingungen erfüllt sein. Einen Überblick über die Arbeitsweise bis hin zur Veröffentlichung ist im [Workflow](./) einsehbar.
 
-- Es muss eine englischsprachige Dokumentation vorliegen. Guides sollten in Deutsch oder Englisch verfasst werden.
+-   Es muss eine englischsprachige Dokumentation vorliegen. Guides sollten in Deutsch oder Englisch verfasst werden.
 
-- Der Quellcode muss gewisse Qualitätsstandards erfüllen und wird deshalb vom Team reviewed.
+-   Der Quellcode muss gewisse Qualitätsstandards erfüllen und wird deshalb vom Team reviewed.
 
 ## Beitritt
 
@@ -73,12 +74,12 @@ Der Organisation darf jeder beitreten, sobald mindestens ein Plugin zur Veröffe
 
 ### Projekt-Template
 
-*Ein Beispiel-Template folgt hier.*
+_Ein Beispiel-Template folgt hier._
 
 ### Lernen
 
-*Eine Liste sinnvoller Lernressourcen folgt hier.*
+_Eine Liste sinnvoller Lernressourcen folgt hier._
 
 ### Tools
 
-*Eine Liste nützlicher Tools, Frameworks und Bibliotheken folgt hier.*
+_Eine Liste nützlicher Tools, Frameworks und Bibliotheken folgt hier._
