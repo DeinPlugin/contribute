@@ -83,3 +83,7 @@ _Eine Liste sinnvoller Lernressourcen folgt hier._
 ### Tools
 
 _Eine Liste nützlicher Tools, Frameworks und Bibliotheken folgt hier._
+
+## Mitarbeit an der Plattform
+
+Für die Mitarbeit an der Plattform sind die [Plattform Contribution Guidelines](./PLATFORM-CONTRIBUTION.md) zu beachten.
