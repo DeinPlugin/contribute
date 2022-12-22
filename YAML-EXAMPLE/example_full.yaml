@@ -1,0 +1,56 @@
+specVersion: 1
+type: plugin
+name:
+  de: Hallo Welt
+  en: Hello World
+authors:
+  - BiVieh
+download:
+  url: https://mydownload.com/helloworld.jar
+  name: MyDownload
+supportedPlatforms:
+  - spigot
+  - paper
+supportedGameVersions: ^1.8
+category: misc
+dependencies:
+  - url: https://dependency1.dev/
+    name: Dependency 1
+    versionRange: 1.0.0 - 1.7.0
+    required: true
+  - url: https://dependency2.dev/
+    name: Dependency 2
+    required: false
+introduction:
+  - de: Ein einfaches Plugin, das das `/helloworld`-Kommando hinzufügt
+  - en: A simple plugin adding the `/helloworld`-command
+description:
+  - de: |
+      # Überblick
+      Das Plugin fügt den weltbewegenden Befehl `/helloworld` hinzu.
+
+      # Nutzung
+      Zur Nutzung des Plugins muss lediglich `/helloworld` im Chat eingegeben werden.
+  - en: |
+      # Overview
+      The plugin adds the groundbreaking command `/helloworld`.
+
+      # Usage
+      To use the plugin, just enter the command `/hellworld` in the chat.
+installation:
+  de: |
+    - Herunterladen der Plugin-Datei
+    - Ablegen der Datei im Plugins-Ordner
+    - Server neustarten
+  en: |
+    - Download the plugin-file
+    - Put the file into your plugins-folder
+    - Restart your server
+tags:
+  - helloworld
+images:
+  - https://myimage.com/screenshot1.png
+  - https://myimage.com/screenshot2.png
+icon: https://myimage.com/helloworld.png
+videoSources:
+  - https://www.youtube.com/watch?v=dQw4w9WgXcQ

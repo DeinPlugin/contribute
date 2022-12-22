@@ -1,0 +1,14 @@
+specVersion: 1
+type: plugin
+name: Hallo Welt
+authors:
+  - BiVieh
+supportedGameVersions: ^1.8
+category: misc
+introduction: Ein einfaches Plugin, das das `/helloworld`-Kommando hinzufügt
+description: |
+      # Überblick
+      Das Plugin fügt den weltbewegenden Befehl `/helloworld` hinzu.
+
+      # Nutzung
+      Zur Nutzung des Plugins muss lediglich `/helloworld` im Chat eingegeben werden.

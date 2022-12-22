@@ -1,8 +1,12 @@
 # DeinPlugin.NET - Mitwirken
 
-**Dieses Dokument ist in ständiger Überarbeitung und deshalb an manchen Stellen unvolllständig.**
+## Weiterführende Dokumente
+- [Plugins auf der Plattform einreichen](CONTRIBUTE.md)
+- [Verhaltensregeln für DeinPlugin.NET](CODE-OF-CONDUCT.md)
 
-*DeinPlugin.NET* ist eine Plattform, die es sich als Ziel gesetzt hat freie, quelloffene [Minecraft](https://minecraft.net)-Plugins für eine breite Masse zugänglich zu machen. Dabei wird mit der Server-Software [Spigot](https://www.spigotmc.org/) und all seiner Forks wie [Paper](https://papermc.io) oder [Taco](https://tacospigot.github.io/) gearbeitet.
+**Dieses Repository ist in ständiger Überarbeitung und deshalb an manchen Stellen unvolllständig.**
+
+[*DeinPlugin.NET*](https://deinplugin.net) ist eine Plattform, die es sich als Ziel gesetzt hat freie, quelloffene [Minecraft](https://minecraft.net)-Plugins für eine breite Masse zugänglich zu machen. Dabei wird mit der Server-Software [Spigot](https://www.spigotmc.org/) und all seiner Forks wie [Paper](https://papermc.io) oder [Taco](https://tacospigot.github.io/) gearbeitet.
 
 ## Hintergrund
 
@@ -56,18 +60,6 @@ Außerdem sind Projekte, die unter die folgenden Kategorien fallen, streng verbo
   - Clients oder Server in irgendeiner anderen Weise beschädigen oder solche Features vom Nutzer verstecken.
 
 Entwickler, deren Projekte gegen diese Richtlinien verstoßen, werden Umgehend benachrichtig (in der Regel durch ein GitHub Issue). Wird der Verstoß nicht behoben, wird das entsprechende Repository (wenn dort hinterlegt) von der Organisation sowie der DeinPlugin.NET-Plattform entfernt. Projekte können auch für hier (noch) nicht aufgeführte Gründe entfernt werden. Auch solche Fälle werden aktiv an den/die Entwickler kommuniziert.
-
-### Veröffentlichung unter DeinPlugin.NET
-
-Damit das Projekt unter unserer Plattform sowie dem Namen der Organisation veröffentlicht werden darf, müssen spezielle Bedingungen erfüllt sein. Einen Überblick über die Arbeitsweise bis hin zur Veröffentlichung ist im [Workflow](./) einsehbar.
-
-- Es muss eine englischsprachige Dokumentation vorliegen. Guides sollten in Deutsch oder Englisch verfasst werden.
-
-- Der Quellcode muss gewisse Qualitätsstandards erfüllen und wird deshalb vom Team reviewed.
-
-## Beitritt
-
-Der Organisation darf jeder beitreten, sobald mindestens ein Plugin zur Veröffentlichung angenommen wurde. Stelle eine private Anfrage auf dem [Discord](https://discord.gg/azG4wxrQWy) oder in einem entsprechenden Repository eine formlose Anfrage per Issue.
 
 ## Hilfreiche Ressourcen
 
