@@ -1,0 +1,170 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$ref": "#/definitions/deinplugin",
+  "definitions": {
+      "deinplugin": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "specVersion": {
+                  "type": "integer"
+              },
+              "type": {
+                  "type": "string"
+              },
+              "name": {
+                  "$ref": "#/definitions/LanguageObject"
+              },
+              "authors": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  }
+              },
+              "download": {
+                  "$ref": "#/definitions/Download"
+              },
+              "supportedPlatforms": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  }
+              },
+              "supportedGameVersions": {
+                  "type": "string"
+              },
+              "category": {
+                  "type": "string"
+              },
+              "dependencies": {
+                  "type": "array",
+                  "items": {
+                      "$ref": "#/definitions/Dependency"
+                  }
+              },
+              "introduction": {
+                  "type": "array",
+                  "items": {
+                      "$ref": "#/definitions/LanguageObject"
+                  }
+              },
+              "description": {
+                  "type": "array",
+                  "items": {
+                      "$ref": "#/definitions/LanguageObject"
+                  }
+              },
+              "installation": {
+                  "$ref": "#/definitions/LanguageObject"
+              },
+              "tags": {
+                  "type": "array",
+                  "maxItems": 5,
+                  "items": {
+                      "type": "string"
+                  }
+              },
+              "images": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "https"
+                      ]
+                  }
+              },
+              "icon": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ]
+              },
+              "videoSources": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "https"
+                      ]
+                  }
+              }
+          },
+          "required": [
+              "authors",
+              "category",
+              "description",
+              "introduction",
+              "name",
+              "specVersion",
+              "supportedGameVersions",
+              "type"
+          ],
+          "title": "deinplugin"
+      },
+      "Dependency": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ]
+              },
+              "name": {
+                  "type": "string"
+              },
+              "versionRange": {
+                  "type": "string"
+              },
+              "required": {
+                  "type": "boolean"
+              }
+          },
+          "required": [
+              "name",
+              "url"
+          ],
+          "title": "Dependency"
+      },
+      "LanguageObject": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "de": {
+                  "type": "string"
+              },
+              "en": {
+                  "type": "string"
+              }
+          },
+          "required": [],
+          "title": "LanguageObject"
+      },
+      "Download": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ]
+              },
+              "name": {
+                  "type": "string"
+              }
+          },
+          "required": [
+              "name",
+              "url"
+          ],
+          "title": "Download"
+      }
+  }
+}

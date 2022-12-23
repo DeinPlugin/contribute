@@ -2,6 +2,8 @@
 
 Das Einreichen eines Plugins ist bei uns nur für GitHub-Projekte möglich, die eine bestimmte Datei im Hauptverzeichnis beinhalten. Die Datei muss den Namen deinplugin.yaml tragen und eine vorgegebene Form besitzen. Die komplette Spezifikation der deinplugin.yaml-Datei findest du in einem von uns angelegten GitHub-Repository. Wenn du direkt einsteigen willst, kannst du aber auch die unten gezeigten Beispiele anschauen oder dich an der deinplugin.yaml-Datei bereits eingereichter Plugins orientieren.
 
+Außerdem haben wir eine [Schema-Datei](schema.json) bereitgestellt, welche eine deinplugin.yaml-Datei validieren kann.
+
 ## Aufbau der deinplugin.yaml-Datei
 
 Im Folgenden wird ein loser Aufbau für verschiedene Komponenten der Spezifikations-Datei dargestellt. Das Herzstück ist dabei das `SpecsObject`, welches in der deinplugin.yaml-Datei untergebracht ist. Die anderen Objekte sind innerhalb des Hauptobjektes zu finden.
